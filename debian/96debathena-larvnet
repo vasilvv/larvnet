@@ -1,5 +1,5 @@
 # This file is sourced by Xsession(5), not executed.
 
-if test -x "/usr/lib/debathena-larvnet/larvnet-wrapper"; then
-   STARTUP="/usr/lib/debathena-larvnet/larvnet-wrapper $STARTUP"
+if test -x "/usr/lib/larvnet/larvnet-wrapper"; then
+   STARTUP="/usr/lib/larvnet/larvnet-wrapper $STARTUP"
 fi
