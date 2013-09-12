@@ -1,3 +1,0 @@
-debian/96debathena-larvnet etc/X11/Xsession.d
-larvnet-wrapper usr/lib/larvnet
-busyd usr/sbin
